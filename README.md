@@ -48,6 +48,18 @@ Once launched:
 
 Passwords and master key are stored encrypted in local `.txt` and `.key` files.
 
+## 📷 Screenshots
+
+<p align="center">
+  <img src="screenshots/add_password.png" alt="Add Password" width="400"/>
+  <img src="screenshots/view_password.png" alt="View Password" width="560"/>
+</p>
+
+<p align="center">
+  <em>Password view and addition interface</em>
+</p>
+
+👉 For more screenshots, check the `screenshots/` folder.
 
 
 ## 📁 File Structure
@@ -58,7 +70,8 @@ Passwords and master key are stored encrypted in local `.txt` and `.key` files.
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-└── requirements.txt
+├── requirements.txt
+└── screenshots/
 ```
 
 
