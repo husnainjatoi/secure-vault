@@ -20,7 +20,7 @@ SecureVault is a command-line password manager built with Python. It uses the `c
 
 ## 🛠️ Installation
 
-Make sure you have Python 3.10+ installed. Then install required packages:
+Make sure you have Python 3.10+ installed. Then install the required packages:
 
 ```bash
 pip install cryptography
@@ -55,15 +55,11 @@ Passwords and master key are stored encrypted in local `.txt` and `.key` files.
 ```
 📦 SecureVault
 ├── secure_vault.py
-├── key.key
-├── master_pwd.key
-└── password_manager.txt
+├── README.md
+├── LICENSE
+├── .gitignore
+└── requirements.txt
 ```
-
-- `key.key` – Encryption key (auto-generated)
-- `master_pwd.key` – Encrypted master password
-- `password_manager.txt` – Encrypted credentials
-
 
 
 ## 📜 License
