@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Sensitive encryption keys
+key.key
+master_pwd.key
+
+# Encrypted user data
+password_manager.txt
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
